@@ -6,9 +6,10 @@
 
 .header{
     display: flex;
+    margin-left: 70px;
 }
 header h1{
-    font-size: 45px;
+    font-size: 40px;
     color: white;
      
 }
@@ -17,8 +18,9 @@ header{
     
 }
 section img{
-    height: 500px;
+    height: 590px;
     width: 600px;
+    h
     
 }
 .section1{
@@ -27,7 +29,7 @@ section img{
     justify-content: space-around;
 }
 h1{
-    font-size: 65px;
+    font-size: 80px;
     
 }
 .section1 p{
@@ -42,4 +44,33 @@ h1{
     background-color: white;
     margin-top: 15px;
     border-radius: 20px;
+}
+.section2 p{
+    width: 350px;
+    margin: 5px;
+}
+article{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+.section2 img{
+    height: 430px;
+    width: 400px;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+.article{
+    margin-top: 40px;
+    margin-right: 200px;
+} 
+.section2 button{
+    border-style: none;
+    font-size: 15px;
+    height: 40px;
+    width: 250px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: orange;
+
 }
