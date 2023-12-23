@@ -91,13 +91,41 @@ article{
     width: 200px;
 }
 .secicon1{
-    margin-right:350px;
+    margin-right:250px;
     margin-top: 150px;
 }
 .secicon2{
     margin: 10px;
     margin-top:90px;
     background-color: white;
-   
     height: 200px;
+    width: 250px;
+    
+}
+.secicon1 p{
+    font-size: 35px;
+    color: white;
+}
+.secicon2 p{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.secicon2 h3{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: rgba(255, 166, 0, 0.774);;
+}
+.iconify{
+    margin-top: 13px;
+    margin-left: 10px;
+    border-radius: 50%;
+    background-color:rgba(255, 166, 0, 0.774);
+    font-size: 35px;
+    color:white;
+
+}
+.iconi{
+    margin-top: 20px;
+    font-size: 25px;
+    color: white;
 }
