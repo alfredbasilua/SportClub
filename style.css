@@ -77,3 +77,15 @@ article{
     color: white;
 
 }
+.section3{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgba(255, 166, 0, 0.774);
+   
+}
+.secicon{
+    display: flex;
+}
+.secicon p{
+    width: 200px;
+}
