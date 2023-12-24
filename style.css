@@ -168,7 +168,7 @@ footer{
 .copy{
     display: flex;
     font-size: 15px;
-    margin-top: 5px;
+    margin-top: 17px;
     
 }
 .copy p{
@@ -204,6 +204,11 @@ h4{
 .footer{
     display: flex;
     justify-content: space-around;
+}
+.lienicon{
+    margin-top:5px;
+    margin-left: 10px;
+
 }
 
 
