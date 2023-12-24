@@ -163,12 +163,35 @@ article{
 footer{
     display: flex;
     justify-content: space-around;
+    background-color:rgba(255, 166, 0, 0.774);
+    margin-top: 50px;
+    height: 80px;
 }
 .copy{
     display: flex;
     font-size: 15px;
+    margin-top: 5px;
     
 }
 .copy p{
     color: rgba(0, 0, 0, 0.562);
 }
+footer a{
+    text-decoration: none;
+    color:rgba(255, 255, 255, 0.849);
+     }
+.suivez a{
+    margin-top: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+h4{
+    font-size: 20px;
+}
+.email a{
+    margin-top: 35px;
+}
+.tele a{
+    margin-top: 10px;
+}
+
