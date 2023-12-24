@@ -161,8 +161,6 @@ article{
     color: white;
 }
 footer{
-    display: flex;
-    justify-content: space-around;
     background-color:rgba(255, 166, 0, 0.644);
     margin-top: 50px;
     height: 80px;
@@ -185,13 +183,27 @@ footer a{
     margin-right: 10px;
     font-size: 20px;
 }
+.suivez{
+    margin-top: 15px;
+}
 h4{
     font-size: 20px;
 }
 .email a{
     margin-top: 35px;
 }
+.email{
+    margin-top: 15px;
+}
 .tele a{
     margin-top: 10px;
 }
+.tele{
+    margin-top: 15px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+
 
