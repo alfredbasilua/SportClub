@@ -176,7 +176,7 @@ footer{
 }
 footer a{
     text-decoration: none;
-    color:rgba(255, 255, 255, 0.849);
+    color:black;
      }
 .suivez a{
     margin-top: 20px;
@@ -189,14 +189,14 @@ footer a{
 h4{
     font-size: 20px;
 }
-.email a{
-    margin-top: 35px;
+.email p{
+    margin-top: 5px;
 }
 .email{
     margin-top: 15px;
 }
-.tele a{
-    margin-top: 10px;
+.tele p{
+    margin-top:5px;
 }
 .tele{
     margin-top: 15px;
@@ -207,8 +207,13 @@ h4{
 }
 .lienicon{
     margin-top:5px;
-    margin-left: 10px;
+    margin-left: 18px;
 
+}
+@media only screen and (max-width: 480px){
+    body{
+        background-color: blue;
+    }
 }
 
 
