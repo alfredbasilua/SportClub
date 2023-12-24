@@ -109,6 +109,7 @@ article{
 .secicon2 p{
     margin-left: 10px;
     margin-top: 20px;
+    font-size: 16px;
 }
 .secicon2 h3{
     margin-left: 10px;
@@ -128,4 +129,46 @@ article{
     margin-top: 20px;
     font-size: 25px;
     color: white;
+}
+.section4{
+    display: flex;
+    justify-content: space-around;
+}
+.section4 img{
+    height: 430px;
+    width: 400px;
+    border-radius: 50%;
+    border-color: orange;
+    border: 2px solid orange;
+    margin-top: 50px;
+}
+.section4 p{
+    width: 400px;
+    margin-top: 10px;
+    font-size: 22px;
+}
+.sec4{
+    margin-top: 100px;
+}
+.section4 button{
+    border-style: none;
+    font-size: 15px;
+    height: 40px;
+    width: 250px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color:rgba(255, 166, 0, 0.774);
+    color: white;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+.copy{
+    display: flex;
+    font-size: 15px;
+    
+}
+.copy p{
+    color: rgba(0, 0, 0, 0.562);
 }
