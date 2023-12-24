@@ -163,7 +163,7 @@ article{
 footer{
     display: flex;
     justify-content: space-around;
-    background-color:rgba(255, 166, 0, 0.774);
+    background-color:rgba(255, 166, 0, 0.644);
     margin-top: 50px;
     height: 80px;
 }
