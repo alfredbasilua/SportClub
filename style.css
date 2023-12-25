@@ -274,5 +274,17 @@ article{
     margin-left: 120px;
 
   }
+  .article h2{
+    text-align: center;
+    margin-left: 90px;
+
+  }
+  .section3{
+    flex-direction: column;
+    
+}
+.secicon{
+    flex-direction: column;
+}
   
    }
