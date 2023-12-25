@@ -229,10 +229,18 @@ h4{
     font-size: 15px;
     margin-top: 5px;
     color: white;
-    margin-left: 45px;
-   
+    margin-left: 45px;  
    
 }
-
+.section1 button{
+    border-style: none;
+    font-size: 12px;
+    height: 25px;
+    width: 150px;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-left: 45px;  
+   
 
  }
