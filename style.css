@@ -217,9 +217,12 @@ h4{
         margin-right:45px;
         
     }
+    .header{
+        margin-left:15px;
+    }
     .h1{
         font-size: 35px;
-        margin-left: 45px;
+        margin-left: 80px;
     }
     section img{
         height: 350px;
@@ -229,24 +232,26 @@ h4{
     font-size: 15px;
     margin-top: 5px;
     color: white;
-    margin-left: 45px;  
+    margin-left: 80px;  
    
 }
 .section1 button{
     border-style: none;
     font-size: 12px;
-    height: 25px;
+    height: 30px;
     width: 150px;
     background-color: white;
-    margin-top: 10px;
+    margin-top: 20px;
     border-radius: 20px;
-    margin-left: 45px;  
+    margin-left: 150px;  
    
 
  }
  .section2 p{
-    width: 400px;
-    margin: 5px;
+    width: 380px;
+    margin: 6px;
+    margin-left:30px;
+
 }
 article{
     flex-direction: column;
@@ -259,7 +264,15 @@ article{
     margin-left:70px;
 }
 .article{
-    margin-top: 40px;
-    margin-right: 200px;
-} 
+    margin-top: 20px;
+    margin-right: 100px;
+} .section2 button{
+    font-size: 12px;
+    height: 30px;
+    color: white;
+    width: 150px;
+    margin-left: 120px;
+
   }
+  
+   }
