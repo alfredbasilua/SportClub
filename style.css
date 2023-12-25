@@ -211,9 +211,28 @@ h4{
 
 }
 @media only screen and (max-width: 480px){
-    body{
-        background-color: blue;
+    header h1{
+        font-size: 27px;
+        color: white;
+        margin-right:45px;
+        
     }
+    .h1{
+        font-size: 35px;
+        margin-left: 45px;
+    }
+    section img{
+        height: 350px;
+        width: 300px;     
+}
+.section1 p{
+    font-size: 15px;
+    margin-top: 5px;
+    color: white;
+    margin-left: 45px;
+   
+   
 }
 
 
+ }
