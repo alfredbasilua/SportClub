@@ -216,6 +216,7 @@ h4{
         font-size: 27px;
         color: white;
         margin-right:45px;
+        margin-top: 10px;
         
     }
     .header{
@@ -223,29 +224,29 @@ h4{
     }
      .h1{
         font-size: 35px;
-        margin-left: 50px;
+        margin-left: 25px;
     }
     section img{
         height: 370px;
-        width:150px;     
+        width:145px;     
 }
 .section1 p{
     font-size: 15px;
     margin-top: 5px;
     color: white;
-    margin-left: 50px;  
+    margin-left: 25px;  
    
 }
 .section1 button{
     border-style: none;
     font-size: 20px;
-    height: 50px;
-    width: 250px;
-    background-color: blue;
-    margin-top: 5px;
+    height: 40px;
+    width: 190px;
+    background-color: white;
+    margin-top: 25px;
     border-radius: 20px;
-    margin-left: 150px;  
-    display: none;
+    margin-left: 20px;  
+   
    
 
  }
@@ -303,7 +304,7 @@ article{
 .secicon2{
     margin: 5px;
     background-color: white;
-    height: 210px;
+    height: 220px;
     width: 250px;
    
 }
