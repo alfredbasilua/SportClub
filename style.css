@@ -211,7 +211,7 @@ h4{
     margin-left: 18px;
 
 }
-@media only screen and (max-width: 480px){
+@media only screen and (max-width: 600px){
     header h1{
         font-size: 27px;
         color: white;
@@ -271,20 +271,23 @@ article{
     margin-right: 100px;
 } 
 .section2 button{
-    font-size: 12px;
+    font-size: 15px;
     height: 40px;
+    font-size: 20px;
+    width: 190px;
     color: white;
     width: 180px;
     margin-left: 60px;
 
   }
   .article h2{
-    text-align: center;
-    margin-left: 35px;
+   text-align: center;
+    margin-left: 30px;
 
   }
   .section3{
     flex-direction: column;
+   
   
     
 }
@@ -297,12 +300,12 @@ article{
 }
 .secicon1 p{
     font-size: 25px;
-    margin-bottom:20px;
+    margin-bottom:5px;
     margin-left: 110px;
     width: 160px;
 }
 .secicon2{
-    margin: 5px;
+    margin: 10px;
     background-color: white;
     height: 220px;
     width: 250px;
@@ -334,14 +337,15 @@ article{
     margin-left: 30px;
    }
    .section4 button{
-    height: 30px;
-    width: 150px;
     margin-left:30px;
+    font-size: 20px;
+    height: 40px;
+    width: 190px;
    }
    .section3
    {
     background-color:rgba(255, 166, 0, 0.774);
-    height: 750px;
+    height: 800px;
 } 
 .sec4{
     margin-left: 60px;
