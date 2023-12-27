@@ -245,11 +245,12 @@ h4{
     margin-top: 5px;
     border-radius: 20px;
     margin-left: 150px;  
+    display: none;
    
 
  }
  .section2 p{
-    width: 380px;
+    width: 250px;
     margin: 6px;
     margin-left:30px;
 
@@ -262,7 +263,7 @@ article{
     height: 320px;
     width: 290px;
     border-radius: 50%;
-    margin-left:70px;
+    margin-left:25px;
 }
 .article{
     margin-top: 20px;
@@ -270,33 +271,34 @@ article{
 } 
 .section2 button{
     font-size: 12px;
-    height: 30px;
+    height: 40px;
     color: white;
-    width: 150px;
-    margin-left: 120px;
+    width: 180px;
+    margin-left: 60px;
 
   }
   .article h2{
     text-align: center;
-    margin-left: 90px;
+    margin-left: 35px;
 
   }
   .section3{
     flex-direction: column;
+  
     
 }
 .secicon{
     flex-direction: column;
     margin-bottom: 150px;
-    margin-left: 100px;
+    margin-left: 50px;
     
     
 }
 .secicon1 p{
     font-size: 25px;
     margin-bottom:20px;
-    margin-left: 160px;
-    width: 150px;
+    margin-left: 110px;
+    width: 160px;
 }
 .secicon2{
     margin: 5px;
@@ -311,6 +313,7 @@ article{
 .section4{
     flex-direction: column;
     margin-top: 300px;
+    
 }
 .section4 img{
     height: 320px;
@@ -319,7 +322,7 @@ article{
     border-color: orange;
     border: 2px solid orange;
     margin-bottom: 550px;
-    margin-left: 85px;
+    margin-left: 35px;
 }
 .section4 p{
     width: 350px;
