@@ -318,21 +318,31 @@ article{
     border-radius: 50%;
     border-color: orange;
     border: 2px solid orange;
-    margin-top: 50px;
+    margin-bottom: 600px;
+    margin-left: 85px;
 }
 .section4 p{
-    width: 400px;
+    width: 350px;
     font-size:20px;
+
    } 
+   .section4 h2{
+    margin-left: 100px;
+   }
+   .section4 button{
+    height: 30px;
+    width: 150px;
+    margin-left:100px;
+   }
    .section3
    {
     background-color:rgba(255, 166, 0, 0.774);
     height: 750px;
 } 
 .sec4{
-    margin-bottom: 550px;
+    margin-left: 60px;
 }
 .section4{
-    height: 500px;
+    height: 490px;
 }
  }
