@@ -304,7 +304,6 @@ article{
     height: 200px;
     width: 250px;
    
-    
 }
 .iconi{
     display: none;
@@ -314,8 +313,8 @@ article{
     margin-top: 300px;
 }
 .section4 img{
-    height: 430px;
-    width: 400px;
+    height: 320px;
+    width: 290px;
     border-radius: 50%;
     border-color: orange;
     border: 2px solid orange;
@@ -323,11 +322,17 @@ article{
 }
 .section4 p{
     width: 400px;
-    margin-top: 10px;
-    font-size: 22px;
+    font-size:20px;
    } 
-   .section3{
+   .section3
+   {
     background-color:rgba(255, 166, 0, 0.774);
     height: 750px;
 } 
+.sec4{
+    margin-bottom: 550px;
+}
+.section4{
+    height: 500px;
+}
  }
