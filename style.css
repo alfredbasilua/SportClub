@@ -159,6 +159,7 @@ article{
     margin-top: 20px;
     background-color:rgba(255, 166, 0, 0.774);
     color: white;
+    
 }
 footer{
     background-color:rgba(255, 166, 0, 0.644);
@@ -226,7 +227,7 @@ h4{
     }
     section img{
         height: 350px;
-        width: 300px;     
+        width:150px;     
 }
 .section1 p{
     font-size: 15px;
@@ -266,7 +267,8 @@ article{
 .article{
     margin-top: 20px;
     margin-right: 100px;
-} .section2 button{
+} 
+.section2 button{
     font-size: 12px;
     height: 30px;
     color: white;
@@ -286,5 +288,36 @@ article{
 .secicon{
     flex-direction: column;
 }
-  
-   }
+.secicon1 p{
+    font-size: 25px;
+    margin-bottom: 150px;
+}
+.secicon2{
+    margin: 5px;
+    background-color: white;
+    height: 200px;
+    width: 250px;
+    
+}
+.section4{
+    flex-direction: column;
+    margin-top: 300px;
+}
+.section4 img{
+    height: 430px;
+    width: 400px;
+    border-radius: 50%;
+    border-color: orange;
+    border: 2px solid orange;
+    margin-top: 50px;
+}
+.section4 p{
+    width: 400px;
+    margin-top: 10px;
+    font-size: 22px;
+   } 
+   .section3{
+    background-color:rgba(255, 166, 0, 0.774);
+    height: 750px;
+} 
+ }
