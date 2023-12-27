@@ -238,10 +238,10 @@ h4{
 }
 .section1 button{
     border-style: none;
-    font-size: 15px;
-    height: 30px;
-    width: 150px;
-    background-color: red;
+    font-size: 20px;
+    height: 50px;
+    width: 250px;
+    background-color: blue;
     margin-top: 5px;
     border-radius: 20px;
     margin-left: 150px;  
