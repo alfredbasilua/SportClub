@@ -287,17 +287,27 @@ article{
 }
 .secicon{
     flex-direction: column;
+    margin-bottom: 150px;
+    margin-left: 100px;
+    
+    
 }
 .secicon1 p{
     font-size: 25px;
-    margin-bottom: 150px;
+    margin-bottom:20px;
+    margin-left: 160px;
+    width: 150px;
 }
 .secicon2{
     margin: 5px;
     background-color: white;
     height: 200px;
     width: 250px;
+   
     
+}
+.iconi{
+    display: none;
 }
 .section4{
     flex-direction: column;
