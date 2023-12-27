@@ -222,7 +222,7 @@ h4{
         margin-left:15px;
     }
      .h1{
-        font-size: 43px;
+        font-size: 35px;
         margin-left: 50px;
     }
     section img{
@@ -303,7 +303,7 @@ article{
 .secicon2{
     margin: 5px;
     background-color: white;
-    height: 200px;
+    height: 210px;
     width: 250px;
    
 }
@@ -325,17 +325,17 @@ article{
     margin-left: 35px;
 }
 .section4 p{
-    width: 350px;
+    width: 300px;
     font-size:20px;
 
    } 
    .section4 h2{
-    margin-left: 100px;
+    margin-left: 30px;
    }
    .section4 button{
     height: 30px;
     width: 150px;
-    margin-left:100px;
+    margin-left:30px;
    }
    .section3
    {
@@ -347,7 +347,7 @@ article{
     margin-top: 220px;
 }
 .section4{
-    height: 340px;
+    height: 400px;
 }
 .footer{
     flex-direction: column;
@@ -355,24 +355,24 @@ article{
     
 }
 .tele{
-    margin-left: 170px;
+    margin-left: 150px;
 }
 .email h4{
-    margin-left: 180px;
-}
-.email p{
-    margin-left: 110px;
-}
-.suivez{
     margin-left: 160px;
 }
+.email p{
+    margin-left: 100px;
+}
+.suivez{
+    margin-left: 140px;
+}
 .copy{
-    margin-left: 150px;
+    margin-left: 110px;
 }
 footer{
     background-color:rgba(255, 166, 0, 0.644);
     
-    height: 230px;
+    height: 280px;
  
     
     
