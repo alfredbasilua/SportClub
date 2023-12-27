@@ -222,27 +222,27 @@ h4{
         margin-left:15px;
     }
     .h1{
-        font-size: 35px;
-        margin-left: 80px;
+        font-size: 43px;
+        margin-left: 50px;
     }
     section img{
-        height: 350px;
+        height: 370px;
         width:150px;     
 }
 .section1 p{
     font-size: 15px;
     margin-top: 5px;
     color: white;
-    margin-left: 80px;  
+    margin-left: 50px;  
    
 }
 .section1 button{
     border-style: none;
-    font-size: 12px;
+    font-size: 15px;
     height: 30px;
     width: 150px;
     background-color: white;
-    margin-top: 20px;
+    margin-top: 5px;
     border-radius: 20px;
     margin-left: 150px;  
    
@@ -318,7 +318,7 @@ article{
     border-radius: 50%;
     border-color: orange;
     border: 2px solid orange;
-    margin-bottom: 600px;
+    margin-bottom: 550px;
     margin-left: 85px;
 }
 .section4 p{
@@ -341,8 +341,37 @@ article{
 } 
 .sec4{
     margin-left: 60px;
+    margin-top: 220px;
 }
 .section4{
-    height: 490px;
+    height: 340px;
+}
+.footer{
+    flex-direction: column;
+    
+    
+}
+.tele{
+    margin-left: 170px;
+}
+.email h4{
+    margin-left: 180px;
+}
+.email p{
+    margin-left: 110px;
+}
+.suivez{
+    margin-left: 160px;
+}
+.copy{
+    margin-left: 150px;
+}
+footer{
+    background-color:rgba(255, 166, 0, 0.644);
+    
+    height: 230px;
+ 
+    
+    
 }
  }
