@@ -268,7 +268,8 @@ article{
 }
 .article{
     margin-top: 20px;
-    margin-right: 100px;
+    
+    
 } 
 .section2 button{
     font-size: 15px;
@@ -281,14 +282,12 @@ article{
 
   }
   .article h2{
-   text-align: center;
-    margin-left: 15px;
+
+ m
 
   }
   .section3{
-    flex-direction: column;
-   
-  
+    flex-direction: column; 
     
 }
 .secicon{
