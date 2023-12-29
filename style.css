@@ -265,8 +265,9 @@ article{
     margin-left:12px;
 }
 .article h2 {
-    margin-left:5px;   
+    margin-left:30px;   
     width: 260px;  
+  
 } 
 .section2 button{
     font-size: 15px;
@@ -312,7 +313,7 @@ font-size: 30px;
 }
 .section4{
     flex-direction: column;
-    margin-top: 300px;
+    margin-top: 350px;
     
 }
 .section4 img{
