@@ -361,6 +361,9 @@ article{
 .tele{
     margin-left: 150px;
 }
+.tele p{
+    margin-right: 15px;
+}
 .email h4{
     margin-left: 160px;
 }
